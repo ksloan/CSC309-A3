@@ -46,15 +46,19 @@
    
             var text, name, screen_name, profile_image_url;
 
-			text=tweet.text;
 			name=tweet.user.name;
 			screen_name=tweet.user.screen_name;
 			profile_image_url=tweet.user.profile_image_url;
+			//update text with all in-tweet links
+			text = processEntities(tweet);
 			
 			var location, description, url;
 			location=tweet.user.location;
 			description=tweet.user.description;
 			user_url=tweet.user.url;
+			
+			
+			
 			
             var shtml='';    
 
@@ -77,26 +81,49 @@
         
     });
     
-		$(document).ready(function(){
-			//use .on() instead of .click() when selecting a dynamically generated DOM element
-			
-			//toggle between showing user info and tweer when profile picture is clicked
-	    	$(document).on("click", ".tweet .profile_image", function() {
-	    		var textElement = $(this).parent().find(".text");
-	    		var userInfo = $(this).parent().find(".user_info")
+    // Return a string with html <a> tags for corresponding entities in the tweet's text
+    function processEntities(tweet) {
+    	var text = tweet.text;
+    	
+    	var url, start, end;
+    	
+    	//links
+    	$.each(tweet.entities.urls, function() {
+    		url = this;
+    		start = url.indices[0];
+    		end = url.indices[1];
+    		text = text.substring(0, start)+
+    			'<a href="'+url.url+'" target="_blank">'+text.substring(start, end)+'</a>'+
+    				text.substring(end);
+    	});
+    	
+    	//TODO: user mentions
+    	
+    	//TODO: hashtags
+    	
+    	return text;
+    }
+    
+	$(document).ready(function(){
+		//use .on() instead of .click() when selecting a dynamically generated DOM element
+		
+		//toggle between showing user info and tweer when profile picture is clicked
+    	$(document).on("click", ".tweet .profile_image", function() {
+    		var textElement = $(this).parent().find(".text");
+    		var userInfo = $(this).parent().find(".user_info")
 
-	    		if (textElement.css("display") == "inline") {
-		    		textElement.fadeToggle(200, function() {
-		    			userInfo.fadeToggle(200);
-		    		});
-		    	} else {
-		    		userInfo.fadeToggle(200, function() {
-		    			textElement.fadeToggle(200);
-		    		});
-		    	}
-			});
-			
-			
+    		if (textElement.css("display") == "inline") {
+	    		textElement.fadeToggle(200, function() {
+	    			userInfo.fadeToggle(200);
+	    		});
+	    	} else {
+	    		userInfo.fadeToggle(200, function() {
+	    			textElement.fadeToggle(200);
+	    		});
+	    	}
 		});
+		
+		
+	});
 </script>
 </html>
