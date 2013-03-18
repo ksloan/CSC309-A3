@@ -85,7 +85,7 @@
     function processEntities(tweet) {
     	var textArray = tweet.text.split("");
     	
-    	var url, hashtag, user_mention, start, end;
+    	var url, hashtag, user_mention, media, start, end;
     	
     	//add links -- opens in external window
     	$.each(tweet.entities.urls, function() {
@@ -94,7 +94,14 @@
     		end = url.indices[1];
     		
     		textArray[start] = '<a href="'+url.url+'" target="_blank">'+textArray[start];
-    		textArray[end] = textArray[end]+'</a>';
+    		
+    		//check if the link is at the end of the text to avoid underfined error
+    		if (textArray[end]) {
+    			textArray[end] = textArray[end]+'</a>';
+    		} else {
+    			textArray[end] = '</a>';
+    		}
+    		
       	});
     	
     	//TODO: user mentions -- opens user profile in external window
@@ -104,7 +111,13 @@
     		end = user_mention.indices[1];
     		
     		textArray[start] = '<a href="http://twitter.com/'+user_mention.screen_name+'" target="_blank">'+textArray[start];
-    		textArray[end] = textArray[end]+'</a>';
+    		
+    		//check if the user_mention is at the end of the text to avoid underfined error
+    		if (textArray[end]) {
+    			textArray[end] = textArray[end]+'</a>';
+    		} else {
+    			textArray[end] = '</a>';
+    		}
     	});
     	
     	
@@ -115,16 +128,36 @@
     		end = hashtag.indices[1];
     		
     		textArray[start] = '<a href="https://twitter.com/search/realtime?q=%23'+hashtag.text+'" target="_blank">'+textArray[start];
-    		textArray[end] = textArray[end]+'</a>';
-    	
+    				
+    		//check if the hashtag is at the end of the text to avoid underfined error
+    		if (textArray[end]) {
+    			textArray[end] = textArray[end]+'</a>';
+    		} else {
+    			textArray[end] = '</a>';
+    		}
     	});
     	
     	//add links to media (ex. images) -- TODO: render these in a in-browser popup soon
+    	//only some tweets have entities.media in the JSON
+    	if (tweet.entities.media) {
+	    	$.each(tweet.entities.media, function () {
+	    		media = this;
+	    		start = media.indices[0];
+	    		end = media.indices[1];
+	    		
+	    		textArray[start] = '<a href="'+media.url+'" target="_blank">'+textArray[start];
+				
+				//check if the hashtag is at the end of the text to avoid underfined error
+	    		if (textArray[end]) {
+	    			textArray[end] = textArray[end]+'</a>';
+	    		} else {
+	    			textArray[end] = '</a>';
+	    		}
+	    	});
+    	}
  
     	return textArray.join('');
     }
-    
-    
     
 	$(document).ready(function(){
 		//use .on() instead of .click() when selecting a dynamically generated DOM element
