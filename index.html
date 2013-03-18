@@ -83,25 +83,35 @@
     
     // Return a string with html <a> tags for corresponding entities in the tweet's text
     function processEntities(tweet) {
-    	var text = tweet.text;
+    	var textArray = tweet.text.split("");
     	
     	var url, start, end;
     	
-    	//links
+    	//add links
     	$.each(tweet.entities.urls, function() {
     		url = this;
     		start = url.indices[0];
     		end = url.indices[1];
-    		text = text.substring(0, start)+
-    			'<a href="'+url.url+'" target="_blank">'+text.substring(start, end)+'</a>'+
-    				text.substring(end);
-    	});
+    		
+    		textArray[start] = '<a href="'+url.url+'" target="_blank">'+textArray[start];
+    		textArray[end] = textArray[end]+'</a>';
+      	});
     	
     	//TODO: user mentions
     	
-    	//TODO: hashtags
     	
-    	return text;
+    	//add hashtags
+    	$.each(tweet.entities.hashtags, function () {
+    		hashtag = this;
+    		start = hashtag.indices[0];
+    		end = hashtag.indices[1];
+    		
+    		textArray[start] = '<a href="https://twitter.com/search/realtime?q=%23'+hashtag.text+'" target="_blank">'+textArray[start];
+    		textArray[end] = textArray[end]+'</a>';
+    	
+    	});
+ 
+    	return textArray.join('');
     }
     
 	$(document).ready(function(){
