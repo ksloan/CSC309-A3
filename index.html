@@ -1,0 +1,66 @@
+<html>
+<head>
+	<title>My Favourite Things</title>
+	<script src="js/jquery-1.9.0.min.js" type="text/javascript"></script>
+	<script src="js/jquery.mobile-1.3.0-rc.1.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="css/jquery.mobile-1.3.0-rc.1.css">
+	<link rel="stylesheet" href="css/custom.css">
+</head>
+<body>
+	<div data-role="header"><h1>My Favourite Things</h1></div>
+	<div data-role="content" id="content">
+		<div id="items" class="ui-grid-a ui-responsive">
+	</div>
+</div>
+</body>
+
+<script type="text/javascript">
+
+	//Config
+	var TWEETS_PER_PAGE = 20;
+
+	//Populate the tweets make this a function called loadMoreTweets(startingIndex, TWEETS_PER_PAGE) 
+	var currentFavIndex = 0;
+	var i = 0;	//only for counting even/odd tweets for now
+
+	$.getJSON('favs.json', function (data) {
+		var column;
+          	
+       	//load the tweets (right now it loads all of them)
+ 		$.each(data, function () {
+ 			 		       
+	        //column switches from a-b for large screen grid view
+	        if (i % 2 === 0) {
+	        	column = 'a'; 
+	       	} else {
+	       		column = 'b';	
+	       	}
+
+            tweet = this;
+   
+            var text, name, screen_name, profile_image_url;
+
+			text=tweet.text;
+			name=tweet.user.name;
+			screen_name=tweet.user.screen_name;
+			profile_image_url=tweet.user.profile_image_url;
+			
+            var shtml='';    
+
+			shtml=shtml+'<div class="tweet ui-block-'+column+'">'
+            shtml=shtml+'<img class="profile_image" src="'+profile_image_url+'" />';
+            shtml=shtml+'<span class="name">'+name+'</span>';
+            shtml=shtml+'<span class="screen_name">@'+screen_name+'</span><br>';
+            shtml=shtml+'<span>'+text+'</span>';  
+            shtml=shtml+'</div>';
+              
+            $('#items').append(shtml);
+            
+            i++;
+        });
+        
+    });
+    
+    
+</script>
+</html>

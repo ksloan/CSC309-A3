@@ -1,0 +1,30 @@
+.tweet {
+	padding: 10px;
+}
+
+.tweet .profile_image {
+	float: left;
+	margin-right: 5px;
+}
+
+.tweet .name {
+	font-weight: bold;
+}
+
+.tweet .screen_name {
+	color: gray;
+	padding-left: 10px;
+}
+
+
+/* stack all grids below 40em (640px) -- might have to change */
+@media all and (max-width: 40em) {
+	.ui-responsive .ui-block-a, 
+	.ui-responsive .ui-block-b, 
+	.ui-responsive .ui-block-c, 
+	.ui-responsive .ui-block-d, 
+	.ui-responsive .ui-block-e {
+    	float: none;
+   	 	width: 100%;
+	}
+}
