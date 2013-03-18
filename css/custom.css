@@ -1,3 +1,7 @@
+#main {
+	padding: 0px;
+}
+
 .tweet {
 	padding: 10px;
 }
@@ -13,18 +17,58 @@
 
 .tweet .screen_name {
 	color: gray;
-	padding-left: 10px;
+	padding-left: 3px;
 }
 
+.tweet .user_info {
+	display: none;
+}
 
-/* stack all grids below 40em (640px) -- might have to change */
-@media all and (max-width: 40em) {
-	.ui-responsive .ui-block-a, 
-	.ui-responsive .ui-block-b, 
-	.ui-responsive .ui-block-c, 
-	.ui-responsive .ui-block-d, 
-	.ui-responsive .ui-block-e {
+/* stack all grids below 48em (768px) -- might have to change */
+@media all and (max-width: 48em) {
+	#items .ui-block-a, 
+	#items .ui-block-b {
     	float: none;
    	 	width: 100%;
 	}
 }
+/*
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) { /* IPAD */ }
+
+*/
+/*
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) { 
+	#items .ui-block-a, 
+	#items .ui-block-b {
+    	float: none;
+   	 	width: 100%;
+	}
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) { 
+	#items .ui-block-a, 
+	#items .ui-block-b {
+    	float: none;
+   	 	width: 100%;
+	}
+	#content {
+		width: 100%;
+	}
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) 
+and (orientation : landscape) { 
+	#main {
+		background-color: blue;
+	}
+}
+*/
