@@ -85,9 +85,9 @@
     function processEntities(tweet) {
     	var textArray = tweet.text.split("");
     	
-    	var url, start, end;
+    	var url, hashtag, user_mention, start, end;
     	
-    	//add links
+    	//add links -- opens in external window
     	$.each(tweet.entities.urls, function() {
     		url = this;
     		start = url.indices[0];
@@ -97,10 +97,18 @@
     		textArray[end] = textArray[end]+'</a>';
       	});
     	
-    	//TODO: user mentions
+    	//TODO: user mentions -- opens user profile in external window
+    	$.each(tweet.entities.user_mentions, function() {
+    		user_mention = this;
+    		start = user_mention.indices[0];
+    		end = user_mention.indices[1];
+    		
+    		textArray[start] = '<a href="http://twitter.com/'+user_mention.screen_name+'" target="_blank">'+textArray[start];
+    		textArray[end] = textArray[end]+'</a>';
+    	});
     	
     	
-    	//add hashtags
+    	//add hashtags -- opens twitter hashtag search in external window
     	$.each(tweet.entities.hashtags, function () {
     		hashtag = this;
     		start = hashtag.indices[0];
@@ -110,9 +118,13 @@
     		textArray[end] = textArray[end]+'</a>';
     	
     	});
+    	
+    	//add links to media (ex. images) -- TODO: render these in a in-browser popup soon
  
     	return textArray.join('');
     }
+    
+    
     
 	$(document).ready(function(){
 		//use .on() instead of .click() when selecting a dynamically generated DOM element
