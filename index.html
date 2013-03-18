@@ -26,7 +26,7 @@
 	$.getJSON('favs.json', function (data) {
 		var column;
           	
-       	//load the tweets (right now it loads all of them)
+		//load the tweets (right now it loads all of them)
  		$.each(data, function () {
  			 		       
 	        //column switches from a-b for large screen grid view
@@ -47,7 +47,7 @@
 			
             var shtml='';    
 
-			shtml=shtml+'<div class="tweet ui-block-'+column+'">'
+			shtml=shtml+'<div class="tweet ui-block-'+column+'">';
             shtml=shtml+'<img class="profile_image" src="'+profile_image_url+'" />';
             shtml=shtml+'<span class="name">'+name+'</span>';
             shtml=shtml+'<span class="screen_name">@'+screen_name+'</span><br>';
