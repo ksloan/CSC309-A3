@@ -17,6 +17,10 @@
 		<div id="items" class="ui-grid-a">
 			<!-- main content goes here-->
 		</div> <!-- add class .ui-responsive to use preset breakpoints -->
+		
+		<!-- <a href="#" id="test" class="media">this is a test</a> -->
+
+		
 	</div>
 </body>
 
@@ -32,10 +36,10 @@
 	$.getJSON('favs.json', function (data) {
 		var column;
           	
-		//load the tweets (right now it loads all of them)
+		// Load the tweets (right now it loads all of them)
  		$.each(data, function () {
  			 		       
-	        //column switches from a-b for large screen grid view
+	        // column switches from a-b for large screen grid view
 	        if (i % 2 === 0) {
 	        	column = 'a'; 
 	       	} else {
@@ -43,26 +47,22 @@
 	       	}
 
             tweet = this;
-   
+   			
+   			// Extract data from JSON
             var text, name, screen_name, profile_image_url;
-
 			name=tweet.user.name;
 			screen_name=tweet.user.screen_name;
 			profile_image_url=tweet.user.profile_image_url;
-			//update text with all in-tweet links
-			text = processEntities(tweet);
+			text = processEntities(tweet); // Updates text with all in-tweet links
 			
 			var location, description, url;
 			location=tweet.user.location;
 			description=tweet.user.description;
 			user_url=tweet.user.url;
 			
-			
-			
-			
             var shtml='';    
 
-			shtml=shtml+'<div class="tweet ui-block-'+column+'">';
+            shtml=shtml+'<div class="tweet ui-block-'+column+'">';
             shtml=shtml+'	<img class="profile_image" src="'+profile_image_url+'" />';
             shtml=shtml+'	<span class="name">'+name+'</span>';
             shtml=shtml+'	<span class="screen_name">@'+screen_name+'</span><br>';
@@ -145,24 +145,29 @@
 	    		start = media.indices[0];
 	    		end = media.indices[1];
 	    		
-	    		textArray[start] = '<a href="'+media.url+'" target="_blank">'+textArray[start];
-				
+	    		//IMPORTANT: this uses media.id to link each media link to its corresponding lightbox
+	    		textArray[start] = '<a href="#" class="media" data-rel="popup" data-position-to="window" data-transition="fade" id="'+media.id+'">'+textArray[start];
+	    		
 				//check if the hashtag is at the end of the text to avoid underfined error
 	    		if (textArray[end]) {
 	    			textArray[end] = textArray[end]+'</a>';
 	    		} else {
 	    			textArray[end] = '</a>';
 	    		}
+	    		
+	    		//append the corresponding lightbox (popup) to the DOM
+	    		$("#main").append('	<div data-role="popup" id="popup'+media.id+'" data-overlay-theme="a" data-theme="d" data-corners="false"> <a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a> <img class="popphoto" src="http://pbs.twimg.com/media/BFJuVBnCUAEjWy_.jpg" style="max-height:512px;"> </div>');		
 	    	});
+
     	}
  
     	return textArray.join('');
     }
     
 	$(document).ready(function(){
-		//use .on() instead of .click() when selecting a dynamically generated DOM element
 		
-		//toggle between showing user info and tweer when profile picture is clicked
+		//Toggle between showing user info and tweer when profile picture is clicked
+		//use .on() instead of .click() when selecting a dynamically generated DOM element
     	$(document).on("click", ".tweet .profile_image", function() {
     		var textElement = $(this).parent().find(".text");
     		var userInfo = $(this).parent().find(".user_info")
@@ -178,7 +183,11 @@
 	    	}
 		});
 		
-		
+		// Load popup on click
+		$(".media").on('click', function(){
+			$("#popup"+$(this).attr("id")).popup("open");
+		});
+			
 	});
 </script>
 </html>
