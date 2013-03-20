@@ -111,17 +111,22 @@
 
 
 	var i = 0;	//only for counting even/odd tweets for now
-	var PAGESIZE = 3;
-	var index = 0;
+	var PAGESIZE = 3; // Set a global variable to hold the pagesize.
+	var index = 0; // Initialize the index at 0.
 	
+	// Initial append of tweets.
 	appendData(index);
-    index += PAGESIZE;    
-		
+	// Update the index.
+	index += PAGESIZE;    
+	
+	// Helper method to load more tweets
 	function loadData() {
 		appendData(index);
+		// Update the index
 		index += PAGESIZE;
 	}
 	
+	// Helper method to append the data from the JSON file
 	function appendData(index2) {
 		$.getJSON('favs.json', function (data) {
 			console.log("starting getJSON");
@@ -171,7 +176,8 @@
 			}); 
 		});
 	}
-
+	
+	// Helper method to parse and append the data
 	function parseData(data) {
 		// Load the tweets (right now it loads all of them)
  		$.each(data, function () {
