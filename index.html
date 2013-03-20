@@ -13,14 +13,17 @@
 <body>
 	<div data-role="page" id="main_page">
 		<div data-role="header"><h1>My Favourite Things</h1></div>
-		
 		<div data-role="content" id="main">
 			<div id="items" class="ui-grid-a">
 				<!-- main content goes here-->
 			</div>
 		</div>
 		
-		<div data-role="footer">End</div>
+		<div data-role="footer">
+        	<h2>
+            	<a href="" data-role="button" id="loadButton" onClick="loadData()">Load More</a>
+            </h2>
+        </div>
 	</div> <!-- /page -->
 </body>
 <script type="text/javascript">
@@ -108,10 +111,68 @@
 
 
 	var i = 0;	//only for counting even/odd tweets for now
-	$.getJSON('favs.json', function (data) {
-		console.log("starting getJSON");
-		var column;
-          	
+	var PAGESIZE = 3;
+	var index = 0;
+	
+	appendData(index);
+    index += PAGESIZE;    
+		
+	function loadData() {
+		appendData(index);
+		index += PAGESIZE;
+	}
+	
+	function appendData(index2) {
+		$.getJSON('favs.json', function (data) {
+			console.log("starting getJSON");
+			var column;
+			var total = data.length;
+			if (total <= PAGESIZE) {
+				parseData(data);
+			} else {
+				var data2 = new Array();
+				for (var i = index2; i < index2 + PAGESIZE; i++) {
+					if (data[i] != null) {
+						data2.push(data[i]);
+						console.log(data[i]);
+					} else {
+						$("#loadButton").addClass("ui-disabled");
+						break;
+					}
+				}
+				parseData(data2);
+			}
+			
+			$(document).ready(function(){
+				// Refresh entire page to allow JQM to pick up dynamic elements stuff
+				$('#main_page').trigger("create");
+				
+				// Toggle between showing user info/tweet when profile picture is clicked
+				// NOTE: use .on() instead of .click() when selecting a dynamically generated element
+				$(document).on("click", ".tweet .profile_image", function() {
+					var textElement = $(this).parent().find(".text");
+					var userInfo = $(this).parent().find(".user_info")
+		
+					if (textElement.css("display") == "inline") {
+						textElement.fadeToggle(200, function() {
+							userInfo.fadeToggle(200);
+						});
+					} else {
+						userInfo.fadeToggle(200, function() {
+							textElement.fadeToggle(200);
+						});
+					}
+				});
+				
+				// Load popup on click
+				$(".media").on('click', function(){
+					$("#popup"+$(this).attr("id")).popup("open");
+				});
+			}); 
+		});
+	}
+
+	function parseData(data) {
 		// Load the tweets (right now it loads all of them)
  		$.each(data, function () {
  			 		       
@@ -155,40 +216,7 @@
             i++;
         });
         console.log("finished getJSON");
-        
-        
-        $(document).ready(function(){
-        	// Refresh entire page to allow JQM to pick up dynamic elements stuff
-	        $('#main_page').trigger("create");
-        	
-			// Toggle between showing user info/tweet when profile picture is clicked
-			// NOTE: use .on() instead of .click() when selecting a dynamically generated element
-	    	$(document).on("click", ".tweet .profile_image", function() {
-	    		var textElement = $(this).parent().find(".text");
-	    		var userInfo = $(this).parent().find(".user_info")
-	
-	    		if (textElement.css("display") == "inline") {
-		    		textElement.fadeToggle(200, function() {
-		    			userInfo.fadeToggle(200);
-		    		});
-		    	} else {
-		    		userInfo.fadeToggle(200, function() {
-		    			textElement.fadeToggle(200);
-		    		});
-		    	}
-			});
-			
-			// Load popup on click
-			$(".media").on('click', function(){
-				$("#popup"+$(this).attr("id")).popup("open");
-			});
-		});
-	        
-        
-        
-                
-    });
-
+	}
 </script>
 
 
