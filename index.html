@@ -1,3 +1,7 @@
+/* THINGS TO BE DONE
+#1: when load more is clicked, and when we try to click on a title to see more information. The information just flashes for a few seconds then disappears.
+#2: loading media is not fully functioning since we only use a fixed url for the media, see line 107.
+*/
 <!DOCTYPE html>
 <html>
 <head>
@@ -128,7 +132,7 @@
 	
 	// Helper method to append the data from the JSON file
 	function appendData(index2) {
-		$.getJSON('favs.json', function (data) {
+		$.getJSON('favs2.json', function (data) {
 			console.log("starting getJSON");
 			var column;
 			var total = data.length;
