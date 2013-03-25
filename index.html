@@ -1,6 +1,7 @@
 /* THINGS TO BE DONE
 #1: DONE - when load more is clicked, and when we try to click on a title to see more information. The information just flashes for a few seconds then disappears.
-#2: loading media is not fully functioning since we only use a fixed url for the media, see line 107.
+#2: DONE - loading media is not fully functioning since we only use a fixed url for the media, see line 107.
+#3: OPTIONAL PROBLEM I HAVE FOUND - I have fixed the media issue. However, I found out a problem where the twitter API gives me no media attribute even if the item I favorited has a "view media" option on the twitter site and the url of that media is included in the url attribute in entities. I'm not certain if we should do something about this.
 */
 <!DOCTYPE html>
 <html>
@@ -105,7 +106,7 @@
 	    		}
 	    		
 	    		// Append the corresponding lightbox (popup) to the DOM
-	    		$("#main").append('<div data-role="popup" id="popup'+media.id+'" data-overlay-theme="a" data-theme="d" data-corners="false"> <a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a> <img class="popphoto" src="http://pbs.twimg.com/media/BFJuVBnCUAEjWy_.jpg" style="max-height:512px;"> </div>');		
+	    		$("#main").append('<div data-role="popup" id="popup'+media.id+'" data-overlay-theme="a" data-theme="d" data-corners="false"> <a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a> <img class="popphoto" src="' + media.media_url + '" style="max-height:512px;"> </div>');		
 	    	});
 	
 		}
@@ -152,7 +153,7 @@
 	
 	// Helper method to append the data from the JSON file
 	function appendData(index2) {
-		$.getJSON('favs2.json', function (data) {
+		$.getJSON('favs3.json', function (data) {
 			console.log("starting getJSON");
 			var column;
 			var total = data.length;
