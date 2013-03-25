@@ -1,5 +1,5 @@
 /* THINGS TO BE DONE
-#1: when load more is clicked, and when we try to click on a title to see more information. The information just flashes for a few seconds then disappears.
+#1: DONE - when load more is clicked, and when we try to click on a title to see more information. The information just flashes for a few seconds then disappears.
 #2: loading media is not fully functioning since we only use a fixed url for the media, see line 107.
 */
 <!DOCTYPE html>
@@ -115,13 +115,33 @@
 
 
 	var i = 0;	//only for counting even/odd tweets for now
-	var PAGESIZE = 3; // Set a global variable to hold the pagesize.
+	var PAGESIZE = 10; // Set a global variable to hold the pagesize.
 	var index = 0; // Initialize the index at 0.
 	
-	// Initial append of tweets.
-	appendData(index);
-	// Update the index.
-	index += PAGESIZE;    
+	$('#main_page').on('pageinit', function(event){
+		// Initial append of tweets.
+		appendData(index);
+		// Update the index.
+		index += PAGESIZE;    
+		
+		// Toggle between showing user info/tweet when profile picture is clicked
+		// NOTE: use .on() instead of .click() when selecting a dynamically generated element
+		$(document).on("click", ".tweet .profile_image", function() {
+			var textElement = $(this).parent().find(".text");
+			var userInfo = $(this).parent().find(".user_info")
+
+			if (textElement.css("display") == "inline") {
+				textElement.fadeToggle(200, function() {
+					userInfo.fadeToggle(200);
+				});
+			} else {
+				userInfo.fadeToggle(200, function() {
+					textElement.fadeToggle(200);
+				});
+			}
+		});		
+	});
+	
 	
 	// Helper method to load more tweets
 	function loadData() {
@@ -138,6 +158,7 @@
 			var total = data.length;
 			if (total <= PAGESIZE) {
 				parseData(data);
+				$("#loadButton").addClass("ui-disabled");					
 			} else {
 				var data2 = new Array();
 				for (var i = index2; i < index2 + PAGESIZE; i++) {
@@ -152,32 +173,14 @@
 				parseData(data2);
 			}
 			
-			$(document).ready(function(){
-				// Refresh entire page to allow JQM to pick up dynamic elements stuff
-				$('#main_page').trigger("create");
+			// Refresh entire page to allow JQM to pick up dynamic elements stuff
+			$('#main_page').trigger("create");
 				
-				// Toggle between showing user info/tweet when profile picture is clicked
-				// NOTE: use .on() instead of .click() when selecting a dynamically generated element
-				$(document).on("click", ".tweet .profile_image", function() {
-					var textElement = $(this).parent().find(".text");
-					var userInfo = $(this).parent().find(".user_info")
-		
-					if (textElement.css("display") == "inline") {
-						textElement.fadeToggle(200, function() {
-							userInfo.fadeToggle(200);
-						});
-					} else {
-						userInfo.fadeToggle(200, function() {
-							textElement.fadeToggle(200);
-						});
-					}
-				});
-				
-				// Load popup on click
-				$(".media").on('click', function(){
-					$("#popup"+$(this).attr("id")).popup("open");
-				});
-			}); 
+			// Load popup on click
+			$(".media").on('click', function(){
+				$("#popup"+$(this).attr("id")).popup("open");
+			});
+			
 		});
 	}
 	
