@@ -22,6 +22,15 @@
 
 .tweet .user_info {
 	display: none;
+	font-size: 11pt;
+}
+
+.tweet .user_info .location {
+	color: gray;
+}
+
+.tweet .text {
+	font-size: 11pt;
 }
 
 /* stack all grids below 48em (768px) -- might have to change */
@@ -32,43 +41,3 @@
    	 	width: 100%;
 	}
 }
-/*
-
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) {  }
-
-*/
-/*
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 568px) { 
-	#items .ui-block-a, 
-	#items .ui-block-b {
-    	float: none;
-   	 	width: 100%;
-	}
-}
-
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) { 
-	#items .ui-block-a, 
-	#items .ui-block-b {
-    	float: none;
-   	 	width: 100%;
-	}
-	#content {
-		width: 100%;
-	}
-}
-
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) 
-and (orientation : landscape) { 
-	#main {
-		background-color: blue;
-	}
-}
-*/
