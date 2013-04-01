@@ -108,8 +108,7 @@
 	
 		return textArray.join('');
 	}
-
-
+	
 	var i = 0;	//only for counting even/odd tweets for now
 	var PAGESIZE = 10; // Set a global variable to hold the pagesize.
 	var index = 0; // Initialize the index at 0.
@@ -138,6 +137,27 @@
 		});		
 	});
 	
+	// Helper method to calculate age of tweet
+	function getAge(timestamp) {	
+
+		// Get timestamp of tweet
+		var date = new Date(Date.parse(timestamp));
+		
+		// Convert timestamp to string format
+		var dateString = date.toLocaleString();
+
+		var hour = dateString.substr(11, 13);
+		// convert to AM or PM (currently redundant)
+		var ampm = hour<12 ? ' AM' : ' PM';
+		if (hour > 12) {
+			hour -= 12;
+		}
+		if (hour == 0) {
+			hour = 12;
+		}
+
+		return fullDate = dateString.substr(dateString.indexOf(' ') + 1);
+	}
 	
 	// Helper method to load more tweets
 	function loadData() {
@@ -201,17 +221,19 @@
 			profile_image_url=tweet.user.profile_image_url;
 			text = processEntities(tweet); // Updates text with all in-tweet links
 			
-			var location, description, url;
+			var location, description, url, age;
 			location=tweet.user.location;
 			description=tweet.user.description;
 			user_url=tweet.user.url;
+			age = tweet.created_at;
 			
             var shtml='';    
 
             shtml=shtml+'<div class="tweet ui-block-'+column+'">';
             shtml=shtml+'	<img class="profile_image" src="'+profile_image_url+'" />';
             shtml=shtml+'	<span class="name">'+name+'</span>';
-            shtml=shtml+'	<span class="screen_name">@'+screen_name+'</span><br>';
+            shtml=shtml+'	<span class="screen_name">@'+screen_name+'</span>';
+			shtml=shtml+'   <span class="age">' + getAge(age) + '</span><br>';
             shtml=shtml+'	<span class="text">'+text+'</span>';
             shtml=shtml+'	<div class="user_info">';
             shtml=shtml+'		<span class="description">'+description+'</span>';

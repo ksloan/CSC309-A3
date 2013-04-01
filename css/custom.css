@@ -20,6 +20,12 @@
 	padding-left: 3px;
 }
 
+.tweet .age {
+	color: black;
+	padding-left: 15px;
+	font-size:10pt;
+}
+
 .tweet .user_info {
 	display: none;
 	font-size: 11pt;
