@@ -1,30 +1,27 @@
 CSC309-A3
 
-Tuo (Tony) Shi
+Group Members:
+    Kevin Sloan
+        cdf: c9sloank
+        github: ksloan
+        
+    Tuo (Tony) Shi
+        cdf: g0shituo
+        github: g0shituo
 
-    email: tonytuoshi@gmail.com
-    phone: 647 919-6388
-    cdf: g0shituo
-    github: g0shituo
+    Zhe (Jack) Zhang
+        cdf: g1zhanhe
+        github: ngshoy
 
-Zhe (Jack) Zhang
+    Ke Yao (Derek) Li
+        cdf: g1derekl
+        github: g1derekl
 
-    email: ngshoy@hotmail.com
-    phone: 647 239-6168
-    cdf: g1zhanhe
-    github: ngshoy
 
-Ke Yao (Derek) Li
-
-    email: derekli04@hotmail.com
-    phone: 647 780-8834
-    cdf: g1derekl
-    github: g1derekl
-
-Kevin Sloan
-
-    email: sloankev@gmail.com
-    phone: 416 970-6445
-    cdf: c9sloank
-    github: ksloan
-    skype: sloankev
+NOTES:
+    - We tested using Firefox 19.0.2 on Windows, and Mobile Safari on iOS
+    - We went with a reponsive design that changes layouts at 768px width
+    - We also did a lot of coding as a team in the labs
+    - To see user info, you need to tap/click on the users thumbnail, name, or screen name
+    - Media posts load in an in-app lightbox, and all other links open in a new window
+    
