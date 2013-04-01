@@ -20,6 +20,7 @@ Group Members:
 
 
 NOTES:
+
     - We tested using Firefox 19.0.2 on Windows, and Mobile Safari on iOS
     - We went with a reponsive design that changes layouts at 768px width
     - We also did a lot of coding as a team in the labs
