@@ -1,6 +1,7 @@
 CSC309-A3
 
 Group Members:
+
     Kevin Sloan
         cdf: c9sloank
         github: ksloan
