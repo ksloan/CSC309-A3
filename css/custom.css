@@ -21,9 +21,10 @@
 }
 
 .tweet .age {
-	color: black;
-	padding-left: 15px;
-	font-size:10pt;
+	float: right;
+	padding-right: 5px;
+	font-size: 9pt;
+	color: gray;
 }
 
 .tweet .user_info {
