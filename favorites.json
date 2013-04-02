@@ -1,5 +1,287 @@
 [
   {
+    "created_at": "Tue Apr 02 02:56:34 +0000 2013",
+    "id": 318919860702814200,
+    "id_str": "318919860702814208",
+    "text": "DeMarre sighting.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 381680519,
+      "id_str": "381680519",
+      "name": "Max Chang",
+      "screen_name": "chang_max",
+      "location": "Salt Lake City, Utah",
+      "description": "Big Cal Golden Bear fan and even bigger Utah Jazz fan. Occasional tweets about food, the kid and politics.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 177,
+      "friends_count": 280,
+      "listed_count": 5,
+      "created_at": "Wed Sep 28 19:04:59 +0000 2011",
+      "favourites_count": 983,
+      "utc_offset": -25200,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6265,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3463482759/6fea8ded3053bba43d4fec661c2f9275_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3463482759/6fea8ded3053bba43d4fec661c2f9275_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/381680519/1361732894",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Apr 02 02:46:59 +0000 2013",
+    "id": 318917448940285950,
+    "id_str": "318917448940285952",
+    "text": "Mo Williams hit 3 threes in the 3rdQ, now is 6/7 from deep &amp; the @UtahJazz lead @pdxtrailblazers 87-74. Big Al has 24 &amp; 10. Lillard 12-4-5",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19923144,
+      "id_str": "19923144",
+      "name": "NBA",
+      "screen_name": "NBA",
+      "location": "",
+      "description": "News and notes directly from the NBA.",
+      "url": "http://www.nba.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.nba.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                18
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6878142,
+      "friends_count": 1093,
+      "listed_count": 32532,
+      "created_at": "Mon Feb 02 19:04:42 +0000 2009",
+      "favourites_count": 25,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 44347,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/830796198/d086414331a4a1d2952a01f04a4f78aa.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/830796198/d086414331a4a1d2952a01f04a4f78aa.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3146573142/adcf2291e8d33807121fcabed6e692b8_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3146573142/adcf2291e8d33807121fcabed6e692b8_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/19923144/1349278807",
+      "profile_link_color": "FF0303",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 45,
+    "favorite_count": 7,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "utahjazz",
+          "name": "Utah Jazz",
+          "id": 18360370,
+          "id_str": "18360370",
+          "indices": [
+            69,
+            78
+          ]
+        },
+        {
+          "screen_name": "pdxtrailblazers",
+          "name": "Trail Blazers",
+          "id": 6395222,
+          "id_str": "6395222",
+          "indices": [
+            84,
+            100
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Apr 02 02:29:22 +0000 2013",
+    "id": 318913013975506940,
+    "id_str": "318913013975506944",
+    "text": "A dominant Pekovic (29p, 5r, 9/15 FG, 11/11 FT) carries @MNTimberwolves to 110-100 W vs shorthanded @Celtics, snapping 11-gm L streak to BOS",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19923144,
+      "id_str": "19923144",
+      "name": "NBA",
+      "screen_name": "NBA",
+      "location": "",
+      "description": "News and notes directly from the NBA.",
+      "url": "http://www.nba.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.nba.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                18
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6878142,
+      "friends_count": 1093,
+      "listed_count": 32532,
+      "created_at": "Mon Feb 02 19:04:42 +0000 2009",
+      "favourites_count": 25,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 44347,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/830796198/d086414331a4a1d2952a01f04a4f78aa.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/830796198/d086414331a4a1d2952a01f04a4f78aa.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3146573142/adcf2291e8d33807121fcabed6e692b8_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3146573142/adcf2291e8d33807121fcabed6e692b8_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/19923144/1349278807",
+      "profile_link_color": "FF0303",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 62,
+    "favorite_count": 16,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "MNTimberwolves",
+          "name": "MN Timberwolves",
+          "id": 20196159,
+          "id_str": "20196159",
+          "indices": [
+            56,
+            71
+          ]
+        },
+        {
+          "screen_name": "celtics",
+          "name": "Boston Celtics",
+          "id": 18139461,
+          "id_str": "18139461",
+          "indices": [
+            100,
+            108
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Mar 22 22:33:15 +0000 2013",
     "id": 315229714589564900,
     "id_str": "315229714589564928",
@@ -46,7 +328,7 @@
       "time_zone": "Eastern Time (US & Canada)",
       "geo_enabled": false,
       "verified": true,
-      "statuses_count": 18713,
+      "statuses_count": 18735,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -222,7 +504,7 @@
         }
       },
       "protected": false,
-      "followers_count": 63298,
+      "followers_count": 63299,
       "friends_count": 674,
       "listed_count": 2265,
       "created_at": "Mon Mar 09 00:45:04 +0000 2009",
@@ -412,7 +694,7 @@
         }
       },
       "protected": false,
-      "followers_count": 171596,
+      "followers_count": 171600,
       "friends_count": 14285,
       "listed_count": 2865,
       "created_at": "Fri Sep 11 15:15:25 +0000 2009",
@@ -421,7 +703,7 @@
       "time_zone": "Eastern Time (US & Canada)",
       "geo_enabled": false,
       "verified": true,
-      "statuses_count": 17339,
+      "statuses_count": 17340,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -562,7 +844,7 @@
       "time_zone": "Eastern Time (US & Canada)",
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 158925,
+      "statuses_count": 158928,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -658,7 +940,7 @@
         }
       },
       "protected": false,
-      "followers_count": 9111,
+      "followers_count": 9112,
       "friends_count": 27,
       "listed_count": 345,
       "created_at": "Wed Mar 25 18:25:37 +0000 2009",
@@ -771,7 +1053,7 @@
       "time_zone": "Eastern Time (US & Canada)",
       "geo_enabled": false,
       "verified": true,
-      "statuses_count": 30867,
+      "statuses_count": 30868,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -857,16 +1139,16 @@
         }
       },
       "protected": false,
-      "followers_count": 473778,
+      "followers_count": 473784,
       "friends_count": 323,
-      "listed_count": 7146,
+      "listed_count": 7145,
       "created_at": "Thu Apr 02 16:42:30 +0000 2009",
       "favourites_count": 19,
       "utc_offset": -18000,
       "time_zone": "Eastern Time (US & Canada)",
       "geo_enabled": false,
       "verified": true,
-      "statuses_count": 47506,
+      "statuses_count": 47507,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -952,7 +1234,7 @@
         }
       },
       "protected": false,
-      "followers_count": 19438,
+      "followers_count": 19439,
       "friends_count": 0,
       "listed_count": 417,
       "created_at": "Wed Jun 06 19:59:02 +0000 2012",
@@ -1137,7 +1419,7 @@
         }
       },
       "protected": false,
-      "followers_count": 139609,
+      "followers_count": 139606,
       "friends_count": 406,
       "listed_count": 3919,
       "created_at": "Fri Jun 19 22:23:41 +0000 2009",
@@ -1240,7 +1522,7 @@
       "time_zone": "Mountain Time (US & Canada)",
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 25491,
+      "statuses_count": 25493,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -1354,7 +1636,7 @@
         }
       },
       "protected": false,
-      "followers_count": 117418,
+      "followers_count": 117416,
       "friends_count": 117,
       "listed_count": 3180,
       "created_at": "Mon Apr 20 18:43:03 +0000 2009",
@@ -1457,7 +1739,7 @@
         }
       },
       "protected": false,
-      "followers_count": 117418,
+      "followers_count": 117416,
       "friends_count": 117,
       "listed_count": 3180,
       "created_at": "Mon Apr 20 18:43:03 +0000 2009",
@@ -1739,7 +2021,7 @@
       "time_zone": "Quito",
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 40187,
+      "statuses_count": 40188,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -1824,7 +2106,7 @@
         }
       },
       "protected": false,
-      "followers_count": 2526,
+      "followers_count": 2525,
       "friends_count": 311,
       "listed_count": 161,
       "created_at": "Wed May 06 01:05:11 +0000 2009",
@@ -1917,7 +2199,7 @@
       "time_zone": "Taipei",
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 24268,
+      "statuses_count": 24273,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -2198,7 +2480,7 @@
         }
       },
       "protected": false,
-      "followers_count": 80050,
+      "followers_count": 80053,
       "friends_count": 184,
       "listed_count": 892,
       "created_at": "Wed Apr 14 00:07:04 +0000 2010",
@@ -2332,7 +2614,7 @@
         }
       },
       "protected": false,
-      "followers_count": 9682,
+      "followers_count": 9681,
       "friends_count": 520,
       "listed_count": 283,
       "created_at": "Fri Oct 30 16:14:17 +0000 2009",
@@ -2341,7 +2623,7 @@
       "time_zone": "Alaska",
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 49791,
+      "statuses_count": 49792,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -2443,7 +2725,7 @@
       "time_zone": "Quito",
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 40187,
+      "statuses_count": 40188,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -2526,7 +2808,7 @@
         }
       },
       "protected": false,
-      "followers_count": 155110,
+      "followers_count": 155111,
       "friends_count": 286,
       "listed_count": 2638,
       "created_at": "Wed Dec 24 16:38:26 +0000 2008",
@@ -2535,7 +2817,7 @@
       "time_zone": "Mountain Time (US & Canada)",
       "geo_enabled": false,
       "verified": true,
-      "statuses_count": 15138,
+      "statuses_count": 15139,
       "lang": "en",
       "contributors_enabled": false,
       "is_translator": false,
@@ -2606,7 +2888,7 @@
         }
       },
       "protected": false,
-      "followers_count": 156027,
+      "followers_count": 156024,
       "friends_count": 153,
       "listed_count": 2014,
       "created_at": "Wed Apr 14 16:34:14 +0000 2010",
@@ -2689,7 +2971,7 @@
         }
       },
       "protected": false,
-      "followers_count": 6878101,
+      "followers_count": 6878142,
       "friends_count": 1093,
       "listed_count": 32532,
       "created_at": "Mon Feb 02 19:04:42 +0000 2009",
@@ -2782,7 +3064,7 @@
         }
       },
       "protected": false,
-      "followers_count": 156242,
+      "followers_count": 156238,
       "friends_count": 83,
       "listed_count": 1621,
       "created_at": "Mon Feb 07 20:24:33 +0000 2011",
@@ -2866,7 +3148,7 @@
         }
       },
       "protected": false,
-      "followers_count": 168800,
+      "followers_count": 168801,
       "friends_count": 413,
       "listed_count": 1431,
       "created_at": "Thu Jul 08 16:06:53 +0000 2010",
@@ -2950,9 +3232,9 @@
         }
       },
       "protected": false,
-      "followers_count": 6265889,
+      "followers_count": 6265958,
       "friends_count": 384,
-      "listed_count": 40630,
+      "listed_count": 40632,
       "created_at": "Tue Mar 27 20:46:16 +0000 2007",
       "favourites_count": 0,
       "utc_offset": -18000,
