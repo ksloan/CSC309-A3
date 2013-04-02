@@ -145,40 +145,36 @@
 		// Convert timestamp to string format
 		var dateString = date.toString();
 		
-		var oneSecond = 1000;	// hours * minutes * seconds	
+		var oneSecond = 1000; // milliseconds
+		// Get current date and time
 		var currentTime = new Date();
-		// Get age of tweet in seconds
-		var difference = Math.abs((currentTime.getTime() - date.getTime())/(oneSecond));
+		// Find age of tweet in seconds
+		var difference = Math.abs((currentTime.getTime() - date.getTime()) / (oneSecond));
 
 		// If age is less than 1 minute ago, display in seconds
 		if (difference < 60) {
 			return Math.floor(difference).toString() + " seconds ago";
 		}
-		
 		// If age is between a minute and an hour, display in minutes
 		else if (difference >= 60 && difference < 3600) {
 			var minutes = Math.floor(Math.floor(difference) / 60);
 			return minutes.toString() + " minutes ago";
 		}
-		
 		// If age is between an hour and a day, display in hours
 		else if (difference >= 3600 && difference < 86400) {
 			var hours = Math.floor(Math.floor(difference) / 3600);
 			return hours.toString() + " hours ago";
 		}
-		
 		// If age is between 1 and 7 days, display age in days 
 		else if (difference >= 86400 && difference < 604800) {
 			var days = Math.floor(Math.floor(difference) / 86400);
 			return days.toString() + " days ago";
 		}		
-		
 		// If age is between 1 and 4 weeks, display age in weeks
 		else if (difference >= 604800 && difference < 3024000) { // 5 weeks minus 1 second (i.e. 4 weeks, 6 days, 23 hours, etc.)
 			var weeks = Math.floor(Math.floor(difference) / 604800); 
 			return weeks.toString() + " weeks ago";
 		}
-		
 		// If age is 5 or more weeks ago, display full date
 		else {
 			return fullDate = dateString.substr(dateString.indexOf(' ') + 1, 11);
