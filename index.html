@@ -151,7 +151,7 @@
 		// Find age of tweet in seconds
 		var difference = Math.abs((currentTime.getTime() - date.getTime()) / (oneSecond));
 
-		// If age is less than 1 minute ago, display in seconds
+		// If age is less than 1 minute, display in seconds
 		if (difference < 60) {
 			return Math.floor(difference).toString() + " seconds ago";
 		}
@@ -175,7 +175,7 @@
 			var weeks = Math.floor(Math.floor(difference) / 604800); 
 			return weeks.toString() + " weeks ago";
 		}
-		// If age is 5 or more weeks ago, display full date
+		// If age is 5 or more weeks, display full date
 		else {
 			return fullDate = dateString.substr(dateString.indexOf(' ') + 1, 11);
 		}
