@@ -1,0 +1,2999 @@
+[
+  {
+    "created_at": "Fri Mar 22 22:33:15 +0000 2013",
+    "id": 315229714589564900,
+    "id_str": "315229714589564928",
+    "text": "These teams have clinched spots in the NBA #playoffs: Heat, Pacers, Nets, Spurs, Thunder, Nuggets",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14608893,
+      "id_str": "14608893",
+      "name": "InsideHoops.com",
+      "screen_name": "InsideHoops",
+      "location": "NYC, NBA Basketball World",
+      "description": "Jeff's WORLD FAMOUS NBA basketball news site INSIDEHOOPS. NBA news, rumors, HOT INFO on players, teams. TOP SOURCE read by EVERYONE in basketball. MUST-FOLLOW!",
+      "url": "http://www.insidehoops.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.insidehoops.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                26
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 133247,
+      "friends_count": 55341,
+      "listed_count": 4090,
+      "created_at": "Thu May 01 01:42:35 +0000 2008",
+      "favourites_count": 42,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 18713,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/733746806/90077be4b82a45e7cab7b1b52c0fa128.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/733746806/90077be4b82a45e7cab7b1b52c0fa128.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2447957231/1d6bgfrp57y437ndqjcf_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2447957231/1d6bgfrp57y437ndqjcf_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/14608893/1354927511",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EADEAA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 50,
+    "favorite_count": 9,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "playoffs",
+          "indices": [
+            43,
+            52
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:31:55 +0000 2013",
+    "id": 315229379460481000,
+    "id_str": "315229379460481025",
+    "text": "Fun stat: Valanciunas has scored in double figures in six of the last seven games. Rookie making the most of this learning experience #RTZ",
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 217555875,
+      "id_str": "217555875",
+      "name": "#RTZ",
+      "screen_name": "rtzfans",
+      "location": "Toronto Raptors Tweet Zone",
+      "description": "#RTZ - Your team. Your Voice. A #Raptors initiative reaching out to engage the fanbase. (Run by @Nat77) ",
+      "url": "http://t.co/u0iCeMnd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/u0iCeMnd",
+              "expanded_url": "http://facebook.com/rtzfans",
+              "display_url": "facebook.com/rtzfans",
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1863,
+      "friends_count": 2011,
+      "listed_count": 57,
+      "created_at": "Fri Nov 19 21:18:56 +0000 2010",
+      "favourites_count": 44,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2611,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2846272366/3fb2dc56e91606f41efe2d26a18655f8_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2846272366/3fb2dc56e91606f41efe2d26a18655f8_normal.png",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/217555875/1360351686",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RTZ",
+          "indices": [
+            134,
+            138
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:25:16 +0000 2013",
+    "id": 315227708105826300,
+    "id_str": "315227708105826304",
+    "text": "Fantastic work on the Spurs' defense by @johnschuhmann: http://t.co/kaxuepLxvt",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23378774,
+      "id_str": "23378774",
+      "name": "Zach Lowe",
+      "screen_name": "ZachLowe_NBA",
+      "location": "NYC",
+      "description": "",
+      "url": "http://grantland.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://grantland.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 63298,
+      "friends_count": 674,
+      "listed_count": 2265,
+      "created_at": "Mon Mar 09 00:45:04 +0000 2009",
+      "favourites_count": 19,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 26624,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/594379873/kgface_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/594379873/kgface_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 13,
+    "favorite_count": 42,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/kaxuepLxvt",
+          "expanded_url": "http://hangtime.blogs.nba.com/2013/03/22/these-spurs-arent-the-same/",
+          "display_url": "hangtime.blogs.nba.com/2013/03/22/the…",
+          "indices": [
+            56,
+            78
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "johnschuhmann",
+          "name": "John Schuhmann",
+          "id": 27554557,
+          "id_str": "27554557",
+          "indices": [
+            40,
+            54
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:18:58 +0000 2013",
+    "id": 315226121698422800,
+    "id_str": "315226121698422784",
+    "text": "Casey: \"When our guys develop, when JV develops then they won't be able to put a 6'7'' or 6'8'' guy on him\"",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 193843928,
+      "id_str": "193843928",
+      "name": "Josh Lewenberg",
+      "screen_name": "JLew1050",
+      "location": "Toronto",
+      "description": "Toronto Raptors NBA Beat Reporter & Freelance Producer @TSN1050Radio, TSN.ca",
+      "url": "http://t.co/bUHn9xvgXT",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/bUHn9xvgXT",
+              "expanded_url": "http://www.tsn.ca/toronto/",
+              "display_url": "tsn.ca/toronto/",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1017,
+      "friends_count": 453,
+      "listed_count": 40,
+      "created_at": "Wed Sep 22 19:54:35 +0000 2010",
+      "favourites_count": 1,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 14714,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/391319482/Shooting_a_basketball.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/391319482/Shooting_a_basketball.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3373631969/e35674e5b798dce91b95cf0836e8453a_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3373631969/e35674e5b798dce91b95cf0836e8453a_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/193843928/1353448109",
+      "profile_link_color": "A60000",
+      "profile_sidebar_border_color": "AD0000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "FFFFFF",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:15:36 +0000 2013",
+    "id": 315225273794711550,
+    "id_str": "315225273794711552",
+    "text": "Meet @DeMar_DeRozan at the Yonge-Dundas @futureshop store on Monday, March 25th: http://t.co/9gurp5lJ0d #Raptors #RTZ @KlipschAudio",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 73406718,
+      "id_str": "73406718",
+      "name": "Toronto Raptors",
+      "screen_name": "Raptors",
+      "location": "Toronto, ON",
+      "description": "Official Toronto Raptors Twitter from @JaySatur & @JonSinden. News, scores, links, pics, video & more. Join us during games for the #RTZ live game chats.  ",
+      "url": "http://www.raptors.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.raptors.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 171596,
+      "friends_count": 14285,
+      "listed_count": 2865,
+      "created_at": "Fri Sep 11 15:15:25 +0000 2009",
+      "favourites_count": 273,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 17339,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/804840132/36ff28921698f2bc5df8c618536f5c2e.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/804840132/36ff28921698f2bc5df8c618536f5c2e.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1924547160/Raptors_Logo_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1924547160/Raptors_Logo_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/73406718/1347978778",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A10A1E",
+      "profile_text_color": "FFFFFF",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 25,
+    "favorite_count": 6,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Raptors",
+          "indices": [
+            104,
+            112
+          ]
+        },
+        {
+          "text": "RTZ",
+          "indices": [
+            113,
+            117
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/9gurp5lJ0d",
+          "expanded_url": "http://bit.ly/ZGt5jk",
+          "display_url": "bit.ly/ZGt5jk",
+          "indices": [
+            81,
+            103
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DeMar_DeRozan",
+          "name": "DeMar DeRozan",
+          "id": 43658360,
+          "id_str": "43658360",
+          "indices": [
+            5,
+            19
+          ]
+        },
+        {
+          "screen_name": "futureshop",
+          "name": "Future Shop",
+          "id": 50418846,
+          "id_str": "50418846",
+          "indices": [
+            40,
+            51
+          ]
+        },
+        {
+          "screen_name": "KlipschAudio",
+          "name": "Klipsch",
+          "id": 16892754,
+          "id_str": "16892754",
+          "indices": [
+            118,
+            131
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:15:05 +0000 2013",
+    "id": 315225145490960400,
+    "id_str": "315225145490960384",
+    "text": "From @npsport March Madness: Upset buffet continues as No. 13 La Salle knocks off Kansas State http://t.co/J0Y4KXoEP6",
+    "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14216661,
+      "id_str": "14216661",
+      "name": "National Post",
+      "screen_name": "nationalpost",
+      "location": "Canada",
+      "description": "News, analysis & commentary by the National Post. The Post on Twitter: http://natpo.st/mRz43J | Post Staff http://natpo.st/qCGHOg Curated by @poppedculture",
+      "url": "http://www.nationalpost.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.nationalpost.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 81430,
+      "friends_count": 12255,
+      "listed_count": 3953,
+      "created_at": "Tue Mar 25 16:25:25 +0000 2008",
+      "favourites_count": 14,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 158925,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5C002",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/66781214/frontpage.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/66781214/frontpage.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/633698755/npfav_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/633698755/npfav_normal.png",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "FFD800",
+      "profile_sidebar_fill_color": "C8C5B2",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/J0Y4KXoEP6",
+          "expanded_url": "http://natpo.st/13jzXsa",
+          "display_url": "natpo.st/13jzXsa",
+          "indices": [
+            95,
+            117
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "npsport",
+          "name": "National Post Sports",
+          "id": 45935319,
+          "id_str": "45935319",
+          "indices": [
+            5,
+            13
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:09:44 +0000 2013",
+    "id": 315223795231256600,
+    "id_str": "315223795231256576",
+    "text": "Henderson Finally Finds Basket To Lead Ole Miss Past Wisconsin http://t.co/pB2VbNmtZc",
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 26556313,
+      "id_str": "26556313",
+      "name": "SI College Hoops",
+      "screen_name": "si_ncaabb",
+      "location": "New York City",
+      "description": "College Basketball and NCAA Tournament coverage from Sports Illustrated writers and photographers",
+      "url": "http://sportsillustrated.cnn.com/basketball/ncaa/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://sportsillustrated.cnn.com/basketball/ncaa/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                49
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9111,
+      "friends_count": 27,
+      "listed_count": 345,
+      "created_at": "Wed Mar 25 18:25:37 +0000 2009",
+      "favourites_count": 0,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10415,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/51619297/si_twitter_back_6232.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/51619297/si_twitter_back_6232.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3410309870/7d64552616aae396c6f2c90fb1295296_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3410309870/7d64552616aae396c6f2c90fb1295296_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/pB2VbNmtZc",
+          "expanded_url": "http://wp.me/pPXSt-1bn",
+          "display_url": "wp.me/pPXSt-1bn",
+          "indices": [
+            63,
+            85
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:07:17 +0000 2013",
+    "id": 315223180434346000,
+    "id_str": "315223180434345984",
+    "text": "Upset Alert! No. 13 La Salle takes down No. 4 Kansas State in the Wild West: http://t.co/z4Wy59rwFr",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15256225,
+      "id_str": "15256225",
+      "name": "theScore",
+      "screen_name": "theScore",
+      "location": "Toronto, ON",
+      "description": "Dedicated to feeding the insatiable hunger for sports. Makers of @theScoreApp The Best Sports App. Ever! Download it here: http://t.co/vuFIL1GKra ",
+      "url": "http://www.thescore.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.thescore.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/vuFIL1GKra",
+              "expanded_url": "http://thesco.re/theScoreApp",
+              "display_url": "thesco.re/theScoreApp",
+              "indices": [
+                123,
+                145
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 119315,
+      "friends_count": 723,
+      "listed_count": 1621,
+      "created_at": "Fri Jun 27 18:03:32 +0000 2008",
+      "favourites_count": 70,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 30867,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/571943696/xv7lkkwrsddxerp601my.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/571943696/xv7lkkwrsddxerp601my.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1931292396/Score__S__2C_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1931292396/Score__S__2C_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/15256225/1352817231",
+      "profile_link_color": "3299D1",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "02224B",
+      "profile_text_color": "DEDEDE",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 20,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/z4Wy59rwFr",
+          "expanded_url": "http://thesco.re/Zi81fq",
+          "display_url": "thesco.re/Zi81fq",
+          "indices": [
+            77,
+            99
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:07:02 +0000 2013",
+    "id": 315223118295728100,
+    "id_str": "315223118295728130",
+    "text": "NBA Power Rankings: Are the Nuggets the second-best team in the league?  http://t.co/3ylGsW36Gr",
+    "source": "<a href=\"http://www.crowdbooster.com\" rel=\"nofollow\">Crowdbooster</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 28370738,
+      "id_str": "28370738",
+      "name": "Sports Illustrated",
+      "screen_name": "SInow",
+      "location": "New York, NY",
+      "description": "Breaking news, conversation and original reporting/insights on all sports. Customer service contact: @SI_Customer_Svc",
+      "url": "http://si.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://si.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 473778,
+      "friends_count": 323,
+      "listed_count": 7146,
+      "created_at": "Thu Apr 02 16:42:30 +0000 2009",
+      "favourites_count": 19,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 47506,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/754370627/eb2e6846e3d1e254af69d1f3c029a3de.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/754370627/eb2e6846e3d1e254af69d1f3c029a3de.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3410210047/f388f70bf4f119e0743ea512cb29ec8c_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3410210047/f388f70bf4f119e0743ea512cb29ec8c_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/28370738/1348006478",
+      "profile_link_color": "D60420",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D9D9D9",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 12,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/3ylGsW36Gr",
+          "expanded_url": "http://bit.ly/WJMekc",
+          "display_url": "bit.ly/WJMekc",
+          "indices": [
+            73,
+            95
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:04:25 +0000 2013",
+    "id": 315222459542548500,
+    "id_str": "315222459542548481",
+    "text": "Andre Nation with an impressive alley oop. http://t.co/FAGF3UJZcc",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 601247231,
+      "id_str": "601247231",
+      "name": "SB Nation GIF",
+      "screen_name": "SBNationGIF",
+      "location": "",
+      "description": "Sports, one GIF at a time.",
+      "url": "http://www.sbnation.com/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.sbnation.com/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 19438,
+      "friends_count": 0,
+      "listed_count": 417,
+      "created_at": "Wed Jun 06 19:59:02 +0000 2012",
+      "favourites_count": 38,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3639,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2284675122/09mg4n8wscjd7ya3o0lr_normal.gif",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2284675122/09mg4n8wscjd7ya3o0lr_normal.gif",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/FAGF3UJZcc",
+          "expanded_url": "http://bit.ly/11r0HSs",
+          "display_url": "bit.ly/11r0HSs",
+          "indices": [
+            43,
+            65
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 22:00:19 +0000 2013",
+    "id": 315221427747950600,
+    "id_str": "315221427747950595",
+    "text": "Jazz take on the Spurs of San Antonio, game tips at 6:30 PM. Pre-game show starts 5:30 PM. #UTAatSAS",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 35420025,
+      "id_str": "35420025",
+      "name": "1280 The Zone",
+      "screen_name": "1280sports",
+      "location": "Salt Lake City, UT",
+      "description": "The Official Twitter Account for the Zone Sports Radio Network in Salt Lake City, Utah.",
+      "url": "http://1280thezone.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://1280thezone.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3510,
+      "friends_count": 240,
+      "listed_count": 102,
+      "created_at": "Sun Apr 26 06:32:38 +0000 2009",
+      "favourites_count": 48,
+      "utc_offset": -25200,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2617,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/662908174/b60tf250ctf0j28n18d1.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/662908174/b60tf250ctf0j28n18d1.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2242551791/thezone_stacked_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2242551791/thezone_stacked_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UTAatSAS",
+          "indices": [
+            91,
+            100
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 21:55:41 +0000 2013",
+    "id": 315220263044272100,
+    "id_str": "315220263044272129",
+    "text": "RT @richarddeitsch: CBS Sports Net has added Oregon St coach Craig Robinson, brother of Michelle Obama, for its coverage this weekend.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 48849410,
+      "id_str": "48849410",
+      "name": "Bruce Feldman",
+      "screen_name": "BFeldmanCBS",
+      "location": "USA",
+      "description": "Co-author, New York Times Best-selling book, Swing Your Sword. Columnist/commentator, CBS Sports.",
+      "url": "http://brucefeldman.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://brucefeldman.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 139609,
+      "friends_count": 406,
+      "listed_count": 3919,
+      "created_at": "Fri Jun 19 22:23:41 +0000 2009",
+      "favourites_count": 4,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 14587,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/19083485/PaperbackIMG.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/19083485/PaperbackIMG.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3191141432/cbf06acba39191cafd2949eb3f1d28e3_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3191141432/cbf06acba39191cafd2949eb3f1d28e3_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 8,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "richarddeitsch",
+          "name": "Richard Deitsch",
+          "id": 25019638,
+          "id_str": "25019638",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 21:52:01 +0000 2013",
+    "id": 315219337805975550,
+    "id_str": "315219337805975552",
+    "text": "SHOT CHART - Randy Foye's shooting slump - Not cold from everywhere in fact very hot from two spots on floor http://t.co/Ig2K9ELAFx",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19361679,
+      "id_str": "19361679",
+      "name": "David Locke",
+      "screen_name": "Lockedonsports",
+      "location": "Salt Lake City, Utah",
+      "description": "David Locke is the radio voice of the  Utah Jazz and his podcast Locked on Jazz was named 1 of top 5 Sports Podcasts in 2012 by Stitcher.",
+      "url": "http://weareutahjazz.com/lockedonjazz/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://weareutahjazz.com/lockedonjazz/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                38
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18981,
+      "friends_count": 638,
+      "listed_count": 841,
+      "created_at": "Thu Jan 22 21:12:20 +0000 2009",
+      "favourites_count": 18,
+      "utc_offset": -25200,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25491,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4018772/esa.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4018772/esa.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1594544393/276617_158677356331_22767174_n_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1594544393/276617_158677356331_22767174_n_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/19361679/1354897637",
+      "profile_link_color": "0300B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "id": 315219337814364160,
+          "id_str": "315219337814364161",
+          "indices": [
+            109,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/BF_iUVDCUAEN_T9.png",
+          "media_url_https": "https://pbs.twimg.com/media/BF_iUVDCUAEN_T9.png",
+          "url": "http://t.co/Ig2K9ELAFx",
+          "display_url": "pic.twitter.com/Ig2K9ELAFx",
+          "expanded_url": "http://twitter.com/Lockedonsports/status/315219337805975552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 324,
+              "h": 312,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 324,
+              "h": 312,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 324,
+              "h": 312,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 21:35:54 +0000 2013",
+    "id": 315215282614444000,
+    "id_str": "315215282614444032",
+    "text": "The two perfect brackets: http://t.co/bSwQI7Cpzq and http://t.co/WIpCC39cbt",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33615152,
+      "id_str": "33615152",
+      "name": "ESPN Fantasy Sports",
+      "screen_name": "ESPNFantasy",
+      "location": "Bristol, CT",
+      "description": "The official Twitter account of ESPN Fantasy Football, Baseball, Basketball, Hockey and more. For support issues call 1-888-549-3776",
+      "url": "http://games.espn.go.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://games.espn.go.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117418,
+      "friends_count": 117,
+      "listed_count": 3180,
+      "created_at": "Mon Apr 20 18:43:03 +0000 2009",
+      "favourites_count": 0,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 5090,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "021D52",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/670988315/e6fc88cc52af3565e22bd47b3eeb2adc.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/670988315/e6fc88cc52af3565e22bd47b3eeb2adc.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/703883893/EF_twitter_icon_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/703883893/EF_twitter_icon_normal.jpg",
+      "profile_link_color": "AC1A30",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "BAC4C9",
+      "profile_text_color": "00143F",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 702,
+    "favorite_count": 196,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/bSwQI7Cpzq",
+          "expanded_url": "http://games.espn.go.com/tournament-challenge-bracket/en/entry?entryID=4004014",
+          "display_url": "games.espn.go.com/tournament-cha…",
+          "indices": [
+            26,
+            48
+          ]
+        },
+        {
+          "url": "http://t.co/WIpCC39cbt",
+          "expanded_url": "http://games.espn.go.com/tournament-challenge-bracket/en_CA/entry?entryID=8802653",
+          "display_url": "games.espn.go.com/tournament-cha…",
+          "indices": [
+            53,
+            75
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 22 21:29:20 +0000 2013",
+    "id": 315213631128219650,
+    "id_str": "315213631128219648",
+    "text": "Through 22 games, there are TWO perfect brackets remaining out of 8.15 million.  #PerfectBracketCountdown #MarchMadness",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33615152,
+      "id_str": "33615152",
+      "name": "ESPN Fantasy Sports",
+      "screen_name": "ESPNFantasy",
+      "location": "Bristol, CT",
+      "description": "The official Twitter account of ESPN Fantasy Football, Baseball, Basketball, Hockey and more. For support issues call 1-888-549-3776",
+      "url": "http://games.espn.go.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://games.espn.go.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117418,
+      "friends_count": 117,
+      "listed_count": 3180,
+      "created_at": "Mon Apr 20 18:43:03 +0000 2009",
+      "favourites_count": 0,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 5090,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "021D52",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/670988315/e6fc88cc52af3565e22bd47b3eeb2adc.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/670988315/e6fc88cc52af3565e22bd47b3eeb2adc.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/703883893/EF_twitter_icon_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/703883893/EF_twitter_icon_normal.jpg",
+      "profile_link_color": "AC1A30",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "BAC4C9",
+      "profile_text_color": "00143F",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 514,
+    "favorite_count": 64,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PerfectBracketCountdown",
+          "indices": [
+            81,
+            105
+          ]
+        },
+        {
+          "text": "MarchMadness",
+          "indices": [
+            106,
+            119
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 19 03:25:27 +0000 2013",
+    "id": 313853698151428100,
+    "id_str": "313853698151428096",
+    "text": "Novak just stole the ball...is this real life ?! #Knicks",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 729448220,
+      "id_str": "729448220",
+      "name": "Nadin€ M ~",
+      "screen_name": "ccnadine13",
+      "location": "",
+      "description": "I'm obsessed with basketball. ^_^ #Knicks all day. #KnicksTape. Hit the follow button for me ;) #BallisLife Follow my boo3 ; @blackoptics5",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 246,
+      "friends_count": 399,
+      "listed_count": 0,
+      "created_at": "Tue Jul 31 23:05:57 +0000 2012",
+      "favourites_count": 273,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5330,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/674483495/b454c23c963e4a89a037589e5f14e699.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/674483495/b454c23c963e4a89a037589e5f14e699.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3273645738/3de86d39c4bee55aab01faf9f3c114dc_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3273645738/3de86d39c4bee55aab01faf9f3c114dc_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/729448220/1361208090",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Knicks",
+          "indices": [
+            49,
+            56
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 16 23:20:29 +0000 2013",
+    "id": 313067276561702900,
+    "id_str": "313067276561702913",
+    "text": "hanging with B. Judd and D. Li watching bball. Never a bad thing.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 115092452,
+      "id_str": "115092452",
+      "name": "Daniel Rowe",
+      "screen_name": "DanielJRowe77",
+      "location": "",
+      "description": "Journalist, Poet, Scouser, Orca, Roman, Spur, and believer all wrapped in one.",
+      "url": "http://danieljrowe.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://danieljrowe.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 155,
+      "friends_count": 327,
+      "listed_count": 1,
+      "created_at": "Wed Feb 17 15:51:04 +0000 2010",
+      "favourites_count": 1,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1684,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/130150392/roadtrip_and_wedding_111.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/130150392/roadtrip_and_wedding_111.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1230181175/Captain_of_the_Clouds_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1230181175/Captain_of_the_Clouds_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/115092452/1361037999",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 04 04:58:23 +0000 2013",
+    "id": 308441269036793860,
+    "id_str": "308441269036793856",
+    "text": "Does strip club needs to put a full page ad. On a newspaper? I dk man, I felt if the guys want 2 go, they know where 2 go, don't need an ad",
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 42060725,
+      "id_str": "42060725",
+      "name": "Vernon Chang",
+      "screen_name": "MoVernie",
+      "location": "Toronto MoVernie Headquarters",
+      "description": "@PPTVca TV Host. Food & Party blogger #raptors #leafs #jays, #Bieber  U #follow me & I #followback Event & Marketing Specialist. Chck out http://t.co/pLBOfU9Q",
+      "url": "http://t.co/pLBOfU9Q",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/pLBOfU9Q",
+              "expanded_url": "http://www.movernie.com",
+              "display_url": "movernie.com",
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/pLBOfU9Q",
+              "expanded_url": "http://www.movernie.com",
+              "display_url": "movernie.com",
+              "indices": [
+                138,
+                158
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 5954,
+      "friends_count": 6486,
+      "listed_count": 98,
+      "created_at": "Sat May 23 17:13:57 +0000 2009",
+      "favourites_count": 232,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 40187,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "DFBAC4",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/14515488/n638505716_4511893_159.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/14515488/n638505716_4511893_159.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/270402267/4557_97407641975_509886975_2506372_1378161_n_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/270402267/4557_97407641975_509886975_2506372_1378161_n_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/42060725/1353210798",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "95F295",
+      "profile_sidebar_fill_color": "F2D14A",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 28 04:05:47 +0000 2013",
+    "id": 306978478648094700,
+    "id_str": "306978478648094720",
+    "text": "Kawhi: \"I touched the ball, coach\"",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 38073084,
+      "id_str": "38073084",
+      "name": "Pounding the Rock",
+      "screen_name": "poundingtherock",
+      "location": "",
+      "description": "The official Twitter Feed of http://t.co/Bv2dGJpg3Y - SBNation's San Antonio Spurs site - Managed by contributor @joshguyersbn",
+      "url": "http://www.poundingtherock.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.poundingtherock.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                30
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/Bv2dGJpg3Y",
+              "expanded_url": "http://www.PoundingTheRock.com",
+              "display_url": "PoundingTheRock.com",
+              "indices": [
+                29,
+                51
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2526,
+      "friends_count": 311,
+      "listed_count": 161,
+      "created_at": "Wed May 06 01:05:11 +0000 2009",
+      "favourites_count": 42,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 31445,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/783770720/5bb50eb2616e957e83a430104b9244be.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/783770720/5bb50eb2616e957e83a430104b9244be.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2585768733/4gj9zkmulq2av22ku0fc_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2585768733/4gj9zkmulq2av22ku0fc_normal.png",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/38073084/1360173710",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 10 04:56:35 +0000 2013",
+    "id": 300468283767918600,
+    "id_str": "300468283767918593",
+    "text": "Respect for the guy that get posterized contesting the dunk.  No respect for the guy that steps aside.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 61175869,
+      "id_str": "61175869",
+      "name": "moni",
+      "screen_name": "monilogue",
+      "location": "",
+      "description": "Living and Dying by the Jazz",
+      "url": "http://jazzfanatical.wordpress.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://jazzfanatical.wordpress.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                34
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 895,
+      "friends_count": 53,
+      "listed_count": 67,
+      "created_at": "Wed Jul 29 11:49:37 +0000 2009",
+      "favourites_count": 13,
+      "utc_offset": 28800,
+      "time_zone": "Taipei",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 24268,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0D0E2B",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/371105562/twitter_back.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/371105562/twitter_back.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1942235772/jerry-b_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1942235772/jerry-b_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/61175869/1359819302",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "379C00",
+      "profile_sidebar_fill_color": "C9E0FF",
+      "profile_text_color": "542C54",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 6,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 07 03:03:43 +0000 2013",
+    "id": 299352715308445700,
+    "id_str": "299352715308445696",
+    "text": "\"L?\" \"There's an L!\" RT @ebckr23: Gimme some Raptors news, Pat Sajak! #TBJ — http://t.co/yYwFN2Ou",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15321506,
+      "id_str": "15321506",
+      "name": "J.E. Skeets",
+      "screen_name": "jeskeets",
+      "location": "Toronto",
+      "description": "NBA blogger/podcaster, #TBJ",
+      "url": "http://www.thescore.com/tbj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.thescore.com/tbj",
+              "expanded_url": null,
+              "indices": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 37037,
+      "friends_count": 1442,
+      "listed_count": 2100,
+      "created_at": "Fri Jul 04 22:26:05 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 41805,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/37732952/ballhoopsmaller.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/37732952/ballhoopsmaller.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2179754682/SkeetsBubble1_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2179754682/SkeetsBubble1_normal.jpg",
+      "profile_link_color": "711D07",
+      "profile_sidebar_border_color": "80A2D2",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TBJ",
+          "indices": [
+            70,
+            74
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/yYwFN2Ou",
+          "expanded_url": "http://bit.ly/WPXsUa",
+          "display_url": "bit.ly/WPXsUa",
+          "indices": [
+            77,
+            97
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ebckr23",
+          "name": "Zach Elsbecker",
+          "id": 99134378,
+          "id_str": "99134378",
+          "indices": [
+            24,
+            32
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 07 02:29:58 +0000 2013",
+    "id": 299344219754082300,
+    "id_str": "299344219754082305",
+    "text": "Comment from an HQ reader just now on our liveblog: \"Rudy Gay era feels awfully similar to pre-Rudy Gay era.\"",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2695011,
+      "id_str": "2695011",
+      "name": "Adam Francis",
+      "screen_name": "raptorshq",
+      "location": "Toronto",
+      "description": "Adam Francis - Marketing Manager for Expedia.ca and Publisher of http://t.co/yrC4FSCSwJ - The Voice of Toronto Raptors Fans.",
+      "url": "http://www.raptorshq.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.raptorshq.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/yrC4FSCSwJ",
+              "expanded_url": "http://RaptorsHQ.com",
+              "display_url": "RaptorsHQ.com",
+              "indices": [
+                65,
+                87
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 3534,
+      "friends_count": 2276,
+      "listed_count": 201,
+      "created_at": "Wed Mar 28 17:39:01 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20319,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/402439650/RapsHQ_Twitter.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/402439650/RapsHQ_Twitter.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3288731411/056dbc389fe89db9d2e336d199652fc0_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3288731411/056dbc389fe89db9d2e336d199652fc0_normal.jpeg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jan 28 00:14:46 +0000 2013",
+    "id": 295686319185748000,
+    "id_str": "295686319185747968",
+    "text": "“@ejbecker17: @ChandlerParsons how confident are you that you can beat @jlin7 in a fight?” No way, he's a ninja",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 132708764,
+      "id_str": "132708764",
+      "name": "Chandler Parsons",
+      "screen_name": "ChandlerParsons",
+      "location": "Houston, Texas ",
+      "description": "6'10 with a Ratchet. ",
+      "url": "http://facebook.com/officialchandlerparsons",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://facebook.com/officialchandlerparsons",
+              "expanded_url": null,
+              "indices": [
+                0,
+                43
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 80050,
+      "friends_count": 184,
+      "listed_count": 892,
+      "created_at": "Wed Apr 14 00:07:04 +0000 2010",
+      "favourites_count": 3,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 4859,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/717842225/e6b025f8a657d540c23aee5c8c8a3e30.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/717842225/e6b025f8a657d540c23aee5c8c8a3e30.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3287713322/e7f3266259fcfe1001f3134aa99b8a46_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3287713322/e7f3266259fcfe1001f3134aa99b8a46_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/132708764/1359008237",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 75,
+    "favorite_count": 103,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "ejbecker17",
+          "name": "Ethan Becker",
+          "id": 710320448,
+          "id_str": "710320448",
+          "indices": [
+            1,
+            12
+          ]
+        },
+        {
+          "screen_name": "ChandlerParsons",
+          "name": "Chandler Parsons",
+          "id": 132708764,
+          "id_str": "132708764",
+          "indices": [
+            14,
+            30
+          ]
+        },
+        {
+          "screen_name": "JLin7",
+          "name": "Jeremy Lin",
+          "id": 170424259,
+          "id_str": "170424259",
+          "indices": [
+            71,
+            77
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 01 01:25:15 +0000 2013",
+    "id": 285919585151090700,
+    "id_str": "285919585151090688",
+    "text": "Have a great, happy, and healthy New Year Sports Fans. January will be our most content filled month EVER. #BigThings",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 86344052,
+      "id_str": "86344052",
+      "name": "BBALLBREAKDOWN",
+      "screen_name": "bballSource",
+      "location": "Los Angeles",
+      "description": "http://t.co/2cdpgL4R\r\nhttp://t.co/4OtlOBqx\r\nExpert NBA Breakdowns, Live In-Game Analysis, Exclusive Interviews with Coaching Legends\r\nPart of SB Nation Network",
+      "url": "http://bballbreakdown.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://bballbreakdown.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                25
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/2cdpgL4R",
+              "expanded_url": "http://youtube.com/bballbreakdown",
+              "display_url": "youtube.com/bballbreakdown",
+              "indices": [
+                0,
+                20
+              ]
+            },
+            {
+              "url": "http://t.co/4OtlOBqx",
+              "expanded_url": "http://facebook.com/bballbreakdown",
+              "display_url": "facebook.com/bballbreakdown",
+              "indices": [
+                22,
+                42
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 9682,
+      "friends_count": 520,
+      "listed_count": 283,
+      "created_at": "Fri Oct 30 16:14:17 +0000 2009",
+      "favourites_count": 229,
+      "utc_offset": -32400,
+      "time_zone": "Alaska",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 49791,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/104758499/twitterBG-copy.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/104758499/twitterBG-copy.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3193685329/3fc102571ed47950a3152cb06cd91b6a_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3193685329/3fc102571ed47950a3152cb06cd91b6a_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BigThings",
+          "indices": [
+            107,
+            117
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 30 20:25:33 +0000 2012",
+    "id": 285481773675208700,
+    "id_str": "285481773675208704",
+    "text": "I just realized being a person who cares about the #environment isn't an easy task. U need to be high roller 2 afford these green items",
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 42060725,
+      "id_str": "42060725",
+      "name": "Vernon Chang",
+      "screen_name": "MoVernie",
+      "location": "Toronto MoVernie Headquarters",
+      "description": "@PPTVca TV Host. Food & Party blogger #raptors #leafs #jays, #Bieber  U #follow me & I #followback Event & Marketing Specialist. Chck out http://t.co/pLBOfU9Q",
+      "url": "http://t.co/pLBOfU9Q",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/pLBOfU9Q",
+              "expanded_url": "http://www.movernie.com",
+              "display_url": "movernie.com",
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/pLBOfU9Q",
+              "expanded_url": "http://www.movernie.com",
+              "display_url": "movernie.com",
+              "indices": [
+                138,
+                158
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 5954,
+      "friends_count": 6486,
+      "listed_count": 98,
+      "created_at": "Sat May 23 17:13:57 +0000 2009",
+      "favourites_count": 232,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 40187,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "DFBAC4",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/14515488/n638505716_4511893_159.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/14515488/n638505716_4511893_159.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/270402267/4557_97407641975_509886975_2506372_1378161_n_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/270402267/4557_97407641975_509886975_2506372_1378161_n_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/42060725/1353210798",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "95F295",
+      "profile_sidebar_fill_color": "F2D14A",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "environment",
+          "indices": [
+            51,
+            63
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 19 03:15:32 +0000 2012",
+    "id": 281236294296813570,
+    "id_str": "281236294296813570",
+    "text": "Derrick Favors #NBABallot",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18360370,
+      "id_str": "18360370",
+      "name": "Utah Jazz",
+      "screen_name": "utahjazz",
+      "location": "Salt Lake City, Utah",
+      "description": "Official Twitter account of the Utah Jazz. Get the latest updates and insight on your Utah Jazz",
+      "url": "http://www.utahjazz.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.utahjazz.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 155110,
+      "friends_count": 286,
+      "listed_count": 2638,
+      "created_at": "Wed Dec 24 16:38:26 +0000 2008",
+      "favourites_count": 12,
+      "utc_offset": -25200,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15138,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "E4E6EA",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/602044044/13etnzgqg1ve2cjf7c31.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/602044044/13etnzgqg1ve2cjf7c31.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1539959999/twitter-profile-1_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1539959999/twitter-profile-1_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/18360370/1331072548",
+      "profile_link_color": "4D2583",
+      "profile_sidebar_border_color": "002A5C",
+      "profile_sidebar_fill_color": "C4CED3",
+      "profile_text_color": "002A5C",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 41,
+    "favorite_count": 17,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NBABallot",
+          "indices": [
+            15,
+            25
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "de"
+  },
+  {
+    "created_at": "Wed Dec 12 04:46:54 +0000 2012",
+    "id": 278722574404448260,
+    "id_str": "278722574404448256",
+    "text": "What's comfortable isn't always correct. Through work and repetition, what's correct will become comfortable... Applicable in multiple ways.",
+    "source": "<a href=\"http://www.tweetings.net/\" rel=\"nofollow\">Tweetings for  iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 132955370,
+      "id_str": "132955370",
+      "name": "Landry Fields",
+      "screen_name": "landryfields",
+      "location": "T. Dot",
+      "description": "The game needed life, I put my heart in it... #GGTG (giving GOD the glory)",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 156027,
+      "friends_count": 153,
+      "listed_count": 2014,
+      "created_at": "Wed Apr 14 16:34:14 +0000 2010",
+      "favourites_count": 56,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 4003,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2966528936/03dee03ca32f50148dfbc4b511ee8ddc_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2966528936/03dee03ca32f50148dfbc4b511ee8ddc_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 135,
+    "favorite_count": 66,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 02 04:06:04 +0000 2012",
+    "id": 264216782007595000,
+    "id_str": "264216782007595008",
+    "text": "Good! T. Parker hits a game-winning jumper at the buzzer on TNT. @Spurs def. @okcthunder 86-84.",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19923144,
+      "id_str": "19923144",
+      "name": "NBA",
+      "screen_name": "NBA",
+      "location": "",
+      "description": "News and notes directly from the NBA.",
+      "url": "http://www.nba.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.nba.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                18
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6878101,
+      "friends_count": 1093,
+      "listed_count": 32532,
+      "created_at": "Mon Feb 02 19:04:42 +0000 2009",
+      "favourites_count": 25,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 44347,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/830796198/d086414331a4a1d2952a01f04a4f78aa.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/830796198/d086414331a4a1d2952a01f04a4f78aa.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3146573142/adcf2291e8d33807121fcabed6e692b8_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3146573142/adcf2291e8d33807121fcabed6e692b8_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/19923144/1349278807",
+      "profile_link_color": "FF0303",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1125,
+    "favorite_count": 129,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "spurs",
+          "name": "San Antonio Spurs",
+          "id": 18371803,
+          "id_str": "18371803",
+          "indices": [
+            65,
+            71
+          ]
+        },
+        {
+          "screen_name": "okcthunder",
+          "name": "OKC THUNDER",
+          "id": 24925573,
+          "id_str": "24925573",
+          "indices": [
+            77,
+            88
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 02 04:04:48 +0000 2012",
+    "id": 264216461957025800,
+    "id_str": "264216461957025792",
+    "text": "Big shot by Parker!",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 248829112,
+      "id_str": "248829112",
+      "name": "Lamarcus Aldridge ",
+      "screen_name": "aldridge_12",
+      "location": "Dallas to Portland",
+      "description": "Pro-Basketball Player",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 156242,
+      "friends_count": 83,
+      "listed_count": 1621,
+      "created_at": "Mon Feb 07 20:24:33 +0000 2011",
+      "favourites_count": 4,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 2699,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3458696684/cd1d84728a8a81799a84e3a1efb629e2_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3458696684/cd1d84728a8a81799a84e3a1efb629e2_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/248829112/1348798675",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 155,
+    "favorite_count": 38,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 02 03:58:23 +0000 2012",
+    "id": 264214850597707780,
+    "id_str": "264214850597707776",
+    "text": "I didn't know he could shoot from 3 lol",
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 164326175,
+      "id_str": "164326175",
+      "name": "Nicolas Batum",
+      "screen_name": "nicolas88batum",
+      "location": "France-USA-Cameroun",
+      "description": "Official twitter of Nicolas Batum/ Twitter officiel de Nicolas Batum ● Official Twitter Page ● © 2012 __ Nicolas BATUM™ PTB NBA. Copyright™",
+      "url": "http://www.batumama.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.batumama.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 168800,
+      "friends_count": 413,
+      "listed_count": 1431,
+      "created_at": "Thu Jul 08 16:06:53 +0000 2010",
+      "favourites_count": 9,
+      "utc_offset": -32400,
+      "time_zone": "Alaska",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 4510,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/186699133/bn.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/186699133/bn.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3439976227/beda602cd2b6f20ffd1db584533b6e08_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3439976227/beda602cd2b6f20ffd1db584533b6e08_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/164326175/1363848580",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "0F0F0F",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 44,
+    "favorite_count": 15,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Oct 18 13:33:46 +0000 2012",
+    "id": 258923831916376060,
+    "id_str": "258923831916376064",
+    "text": "It doesn't matter what the score is, how bad the odds are, or how uphill the climb is. A true fan always believes in their team.",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2557521,
+      "id_str": "2557521",
+      "name": "ESPN",
+      "screen_name": "espn",
+      "location": "Bristol, CT",
+      "description": "We talk about sports, sports, and well ... sports. ",
+      "url": "http://espn.go.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://espn.go.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                18
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6265889,
+      "friends_count": 384,
+      "listed_count": 40630,
+      "created_at": "Tue Mar 27 20:46:16 +0000 2007",
+      "favourites_count": 0,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 46841,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C8C8C8",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/601774592/rqjossil7yrf5tn5fdvl.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/601774592/rqjossil7yrf5tn5fdvl.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2553495291/pte9c947iyknmtdon8ge_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2553495291/pte9c947iyknmtdon8ge_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/2557521/1364853225",
+      "profile_link_color": "CC0000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 5386,
+    "favorite_count": 1124,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  }
+]
